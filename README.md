@@ -8,8 +8,7 @@ JavaScript date library of your choice or the native JavaScript `Date` object to
 
 ## Description
 
-This is a social network web application that can handle large amounts of unstructured data utilizing a NoSQL database. Users can use this API to share their thoughts, react to friends’ thoughts, and create a friend list.
-
+This social network web application uses a NoSQL database to manage large amounts of unstructured data. This API allows users to post their ideas, respond to friends' ideas, and build a friend list.
 
 
 ## Technologies Used
